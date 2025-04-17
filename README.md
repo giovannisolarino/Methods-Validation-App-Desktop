@@ -7,7 +7,7 @@
 <br>
 </h1>
 <h2 align="center">MVA WILL BE PUBLISHED SOON.</h2>
-<h4 align="center">An analytical validation software written in Python.</h4>
+<h4 align="center">A analytical method validation software written in Python.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -35,8 +35,6 @@
 * Accuracy
 * Matrix effect
 * Recovery
-* Cross platform
-  - Windows, macOS and Linux ready.
 
 ## How To Use
 
