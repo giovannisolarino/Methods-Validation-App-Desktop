@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <br>
   <a><img src="./logo_no_bg.png"
@@ -10,16 +11,21 @@
 <h4 align="center">Analytical method validation software written in Python.</h4>
 
 <p align="center">
+<a href="#euroanalysis-2025">EUROANALYSIS 2025</a> •
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> 
+  <a href="#demo-version">Demo Version</a> •
+  <a href="#how-to-use">How To Use</a> 
   <br>
+  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#how-to-cite-us">How To Cite Us</a> 
   <br>
   <a href="#license">License</a>
 </p>
+
+## EUROANALYSIS 2025
+[Here](./mva_poster_solarino.pdf) you can find the poster presented at EUROANALYSIS 2025
 
 ## Key Features
 
@@ -36,6 +42,9 @@
 * Matrix effect
 * Recovery
 
+## Demo Version
+MVA has not been released yet, but we can provide you with a demo version if you’re interested. 
+[Contact us!](mailto:giovanni.solarino@unito.it)
 ## How To Use
 
 To run this application, download the **MVA_setup.exe** file and install it with administrator privileges. 
@@ -43,7 +52,7 @@ Ensure that you always run the application as an administrator for proper functi
 
 ## Download
 
-Download [setup file](link) version 1.0.0
+Coming soon
 
 ## Credits
 
@@ -70,7 +79,7 @@ If you're looking to enhance your validation study with additional key parameter
 
 ## How To Cite Us
 
-Publication to come
+Upcoming publication
 
 ## You may also like...
 
